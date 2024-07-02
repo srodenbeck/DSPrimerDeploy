@@ -6,7 +6,9 @@
         "jupyterlab-kernel-spy",
         "jupyterlab-tour"
       ]
-    },
+    },"jupyter_config": {
+    "default": "introToJupyter.ipynb"
+  },
     "baseUrl": "introToJupyter.ipynb/"
   }
   
